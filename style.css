@@ -31,6 +31,7 @@ html, body {
   border:none;
   border-radius: 30px;
   margin-right: 8px;
+  cursor: pointer;
 }
 
 .buy-btn{
@@ -40,4 +41,5 @@ html, body {
   font-size: 15px;
   border:none;
   border-radius: 30px;
+  cursor: pointer;
 }
