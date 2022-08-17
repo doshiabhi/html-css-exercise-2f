@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.amazon-link{
+  font-size: 20px;
+  color: rgb(0,113,133)
+}
+
+.nike-para{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.stock-para{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(0,118,0);
+}
+
+.delivery-para{
+  font-size: 20px;
+}
+
+.cart-btn{
+  height: 40px;
+  width: 140px;
+  background-color: rgb(255,216,20);
+  font-size: 15px;
+  border:none;
+  border-radius: 30px;
+  margin-right: 8px;
+}
+
+.buy-btn{
+  height: 40px;
+  width: 140px;
+  background-color: rgb(255,164,28);
+  font-size: 15px;
+  border:none;
+  border-radius: 30px;
+}
